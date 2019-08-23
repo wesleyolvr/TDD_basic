@@ -6,7 +6,6 @@ def eh_bissextp():
         print('Não é bissexto')
 
 ano = int(input('Digite o ano: '))
-ano = int(ano)
 
 
 
